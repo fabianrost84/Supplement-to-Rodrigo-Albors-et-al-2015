@@ -1,0 +1,56 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Supplementary Information"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Axolotl spinal cord regeneration induces an axis elongation program that implements PCP signaling to drive neural stem cell expansion"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Aida Rodrigo Albors<sup>1,2</sup>, Akira Tazaki<sup>1,2</sup>, Fabian Rost<sup>3</sup>, Osvaldo Chara<sup>3,4</sup>, Elly M. Tanaka<sup>1,2</sup>"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<sup>1</sup>Deutsche Forschungsgemeinschaft (DFG)–Center for Regenerative Therapies Dresden, Technische Universität Dresden, Germany.<br>\n",
+    "<sup>2</sup>Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany.<br>\n",
+    "<sup>3</sup>Center for Information Services and High Performance Computing, Technische Universität Dresden, Germany.<br>\n",
+    "<sup>4</sup>Institute of Physics of Liquids and Biological Systems, Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) and University of La Plata, Argentina."
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 2",
+   "language": "python",
+   "name": "python2"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 2
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython2",
+   "version": "2.7.6"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 0
+}
