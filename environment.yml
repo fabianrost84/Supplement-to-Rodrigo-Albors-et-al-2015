@@ -4,6 +4,7 @@ dependencies:
   - scipy
   - pandas
   - matplotlib
+  - numexpr
   - pip:
     - iminuit
     - probfit
