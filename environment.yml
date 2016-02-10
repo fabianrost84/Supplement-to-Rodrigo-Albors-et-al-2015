@@ -1,0 +1,9 @@
+name: Rodrigo_Albors_2015
+dependencies:
+  - python=2.7
+  - scipy
+  - pandas
+  - matplotlib
+  - pip:
+    - iminuit
+    - probfit
