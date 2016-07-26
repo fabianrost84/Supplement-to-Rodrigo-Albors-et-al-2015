@@ -5,4 +5,6 @@ Now, the notebook can easily be executed and modified in an interactive way. Jus
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/fabianrost84/Supplement-to-Rodrigo-Albors-et-al-2015)
 
+[![DOI](https://zenodo.org/badge/21694/fabianrost84/Supplement-to-Rodrigo-Albors-et-al-2015.svg)](https://zenodo.org/badge/latestdoi/21694/fabianrost84/Supplement-to-Rodrigo-Albors-et-al-2015)
+
 This makes use of http://mybinder.org/.
